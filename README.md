@@ -21,3 +21,19 @@ Code accompanying the paper [**Deep Differentiable Random Forests for Age Estima
     You can choose DRF or DLDLF by argument `--method`
     (and `morph2lmdb.py` is used to create LMDB for DLDLF)
 
+Please cite the following paper if it helps your research:
+
+@article{ShenTPAMI2019,
+  author    = {Wei Shen and
+               Yilu Guo and
+               Yan Wang and
+               Kai Zhao and
+               Bo Wang and
+               Alan L. Yuille},
+  title     = {Deep Differentiable Random Forests for Age Estimation},
+  journal   = {{IEEE} Trans. Pattern Anal. Mach. Intell.},
+  volume    = {},
+  year      = {2019}
+}
+
+If you have any issues using the code please email us at shenwei1231@gmail.com, gyl.luan0@gmail.com
