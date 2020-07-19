@@ -22,7 +22,14 @@ Code accompanying the paper [**Deep Differentiable Random Forests for Age Estima
     (and `morph2lmdb.py` is used to create LMDB for DLDLF)
 
 Please cite the following paper if it helps your research:
-
+   
+     @inproceedings{shen2018DRFs,
+      author = {Wei Shen and Yilu Guo and Yan Wang and Kai Zhao and Bo Wang and Alan Yuille},
+      booktitle = {Proc. CVPR},
+      title = {Deep Regression Forests for Age Estimation},
+      year = {2018}
+    }
+    
    @article{ShenTPAMI2019,
      author    = {Wei Shen and
                  Yilu Guo and
