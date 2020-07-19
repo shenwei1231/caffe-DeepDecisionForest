@@ -19,5 +19,5 @@ Code accompanying the paper [**Deep Differentiable Random Forests for Age Estima
     `python run.py`
     
     You can choose DRF or DLDLF by argument `--method`
-    (and `morph2lmdb.py` can help to create LMDB for DLDLF)
+    (and `morph2lmdb.py` is used to create LMDB for DLDLF)
 
